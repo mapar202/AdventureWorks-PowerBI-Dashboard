@@ -1,8 +1,6 @@
 ## 📝 Changelog
 
-### v2 – 2025-06-07
-## [v1.1.0] - 2025-06-09
-
+### v2.0 – 2025-06-07
 
 ### Global Template Updates
 - 🎨 Created a custom layout in Figma to plan the design more professionally.
