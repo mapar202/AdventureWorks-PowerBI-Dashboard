@@ -39,6 +39,16 @@ This is the **first version** of the dashboard. Future updates will add enhancem
 - Designed for both **business overview** and **granular drill-down** into internet sales insights.
 
 ---
+## 📸 Dashboard Previews
+
+### Product Dashboard
+![Product Dashboard](assets/dashboard-screenshots/Product.png)  
+*Product performance metrics and rankings.*
+
+### Internet Sales Dashboard
+![Internet Sales Dashboard](assets/dashboard-screenshots/InternetSales.png)  
+*YoY trends, customer segments, and revenue breakdown.*
+---
 
 ## 🛠 Tools Used
 
