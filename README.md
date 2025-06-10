@@ -46,9 +46,9 @@ This is the **first version** of the dashboard. Future updates will add enhancem
 *Product performance metrics and rankings.*
 
 ### Internet Sales Dashboard
-![Internet Sales Dashboard](assets/dashboard-screenshots/InternetSales.png)  
+![Internet Sales Dashboard](assets/dashboard-screenshots/InternetSales.png)
 *YoY trends, customer segments, and revenue breakdown.*
----
+
 
 ## 🛠 Tools Used
 
