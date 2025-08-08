@@ -61,7 +61,7 @@ This is the **first version** of the dashboard. Future updates will add enhancem
 ---
 ## 📸 Dashboard Previews
 
-### Product Dashboard
+### Customer Dashboard
 ![Customer Dashboard](assets/dashboard-screenshots/Customer.png)  
 *Actionable insights into customer behavior, retention, and profitability*
 
