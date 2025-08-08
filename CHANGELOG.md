@@ -1,5 +1,24 @@
 ## 📝 Changelog
 
+### v2.1 – 2025-08-08
+
+### New Customer Page
+- 👥 Added a **Customer Insights page** featuring real-life KPIs such as Active Customers, Net Customer Flow, Average Customer Lifetime Value (CLV), and Retention Rate.
+- ℹ️ Added KPI glossary with hover tooltips for each customer metric, improving clarity and stakeholder understanding.
+
+- 📊 Introduced new charts:
+  - Average Revenue per Customer by Age Group
+  - Average Profit per Customer by Customer Segments
+  - Top 5 Customers by Revenue
+  - Monthly Customer Dynamics (New, Churned, Net Flow)
+  - Customer Count by Revenue bins
+- 🎯 Designed this page to help hiring managers and stakeholders see practical, business-ready analytics.
+
+### General Enhancements
+- 🖼 Added dashboard screenshot for the Customer page to the repository.
+- 📄 Updated README.md with detailed descriptions of all customer KPIs and charts.
+
+
 ### v2.0 – 2025-06-07
 
 ### Global Template Updates
